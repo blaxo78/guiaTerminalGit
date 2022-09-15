@@ -1,0 +1,6 @@
+ls: listar elementos de la carpeta
+pwd: indicar la direccion absoluta
+cd: cambia de directorio
+touch:crear archivos
+mkdir: crear carpeta
+mv: cambiar de direccion el archivo o cambiar el nombre
